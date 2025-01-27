@@ -1,4 +1,4 @@
-Backend services for recklessrooster.com.
+Backend services for recklessrooster.com - finding crime-prone animals - once!
 
 ## GBIF Public BQ database
 
